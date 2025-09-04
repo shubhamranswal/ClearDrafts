@@ -74,8 +74,7 @@ ClearDrafts and its tools are open source under the MIT License. See individual 
 
 Follow us for updates, new tools, and community news:
 
-- 🌍 Website: [shubham-ranswal.web.app/](https://shubham-ranswal.web.app/)  
-- 💻 GitHub: [github.com/shubhamranswal/ClearDrafts](https://github.com/shubhamranswal/ClearDrafts)  
+Built with ❤️ by ***Shubham Singh Ranswal*** [(know more)](https://shubham-ranswal.web.app/)
 
 ---
 
