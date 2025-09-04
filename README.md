@@ -67,6 +67,7 @@ Please see the CONTRIBUTING.md file in each tool repository for guidelines.
 ## 📜 License
 
 ClearDrafts and its tools are open source under the MIT License. See individual tool repos for details.
+[Read here](https://github.com/shubhamranswal/PreviewMD/blob/main/LICENSE.md)
 
 ---
 
